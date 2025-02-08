@@ -1,0 +1,14 @@
+[project]
+name = "youlearn"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "ffmpeg>=1.4",
+    "ipykernel>=6.29.5",
+    "langchain>=0.3.18",
+    "langchain-community>=0.3.17",
+    "openai-whisper>=20240930",
+    "pytubefix>=8.12.1",
+]
